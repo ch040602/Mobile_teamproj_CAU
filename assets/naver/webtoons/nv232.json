@@ -1,0 +1,20 @@
+[
+    {
+        "title": "3화 : 산타",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=818575&no=3&week=wed",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/818575/3/thumbnail_202x120_8d1cb6f4-41a2-4c24-9891-19d21eba663f.jpg",
+        "publicationDate": "23.11.21"
+    },
+    {
+        "title": "2화 : 도둑",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=818575&no=2&week=wed",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/818575/2/thumbnail_202x120_04a3d2d0-d0ac-490b-9281-1dfda24a7062.jpg",
+        "publicationDate": "23.11.14"
+    },
+    {
+        "title": "1화 : 굴뚝으로 들어온 손님",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=818575&no=1&week=wed",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/818575/1/thumbnail_202x120_d4658279-5061-4d97-8a1c-37ba8056eede.jpg",
+        "publicationDate": "23.11.07"
+    }
+]

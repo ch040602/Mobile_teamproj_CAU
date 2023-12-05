@@ -1,0 +1,44 @@
+[
+    {
+        "title": "7화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=817752&no=7&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/817752/7/thumbnail_202x120_7fed87ab-7fec-40e6-8f20-7a26cbec2b8d.jpg",
+        "publicationDate": "23.11.16"
+    },
+    {
+        "title": "6화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=817752&no=6&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/817752/6/thumbnail_202x120_240e6611-04ea-4afc-9406-969f58b903cd.jpg",
+        "publicationDate": "23.11.09"
+    },
+    {
+        "title": "5화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=817752&no=5&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/817752/5/thumbnail_202x120_6bea8b5b-ba2d-4b69-bf1f-77935466f83f.jpg",
+        "publicationDate": "23.11.02"
+    },
+    {
+        "title": "4화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=817752&no=4&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/817752/4/thumbnail_202x120_b9e1d779-d7c5-4ea2-95c3-93f6a1194a14.jpg",
+        "publicationDate": "23.10.26"
+    },
+    {
+        "title": "3화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=817752&no=3&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/817752/3/thumbnail_202x120_f2a7af3c-1712-4304-b026-aad67fb31e6b.jpg",
+        "publicationDate": "23.10.19"
+    },
+    {
+        "title": "2화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=817752&no=2&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/817752/2/thumbnail_202x120_15656274-5a66-4112-b066-107661cd2f82.jpg",
+        "publicationDate": "23.10.19"
+    },
+    {
+        "title": "1화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=817752&no=1&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/817752/1/thumbnail_202x120_564dfa91-8e33-4608-95a9-c0ab915cfc15.jpg",
+        "publicationDate": "23.10.19"
+    }
+]
