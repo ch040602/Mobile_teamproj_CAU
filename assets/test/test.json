@@ -1,0 +1,47 @@
+[
+  {
+    "day": "mon",
+    "rating": "9.83",
+    "title": "오늘은 나랑 만나",
+    "author": "네이버웹툰 작가",
+    "url": "https://comic.naver.com/webtoon/list?titleId=817081&tab=mon",
+    "imeageUrl": "https://image-comic.pstatic.net/webtoon/817081/thumbnail/thumbnail_IMAG21_439e78c2-e71e-4671-ad2f-703327c0bd8d.jpeg",
+    "genre": "#로맨스"
+  },
+  {
+    "day": "sun",
+    "rating": "9.81",
+    "title": "뷰티풀 군바리",
+    "author": "설이 / 윤성원",
+    "url": "https://comic.naver.com/webtoon/list?titleId=648419&tab=mon",
+    "imeageUrl": "https://image-comic.pstatic.net/webtoon/648419/thumbnail/thumbnail_IMAG21_d9398229-cbfd-47dc-9208-0a6fb936f3a7.jpg",
+    "genre": "#드라마#직업드라마#밀리터리"
+  },
+  {
+    "day": "sat",
+    "rating": "9.92",
+    "title": "소녀의 세계",
+    "author": "모랑지",
+    "url": "https://comic.naver.com/webtoon/list?titleId=654774&tab=mon",
+    "imeageUrl": "https://image-comic.pstatic.net/webtoon/654774/thumbnail/thumbnail_IMAG21_4048794550434817075.jpg",
+    "genre": "#드라마#하이틴#학원로맨스#직진남#삼각관계#까칠남#감성드라마"
+  },
+  {
+    "day": "fri",
+    "rating": "9.85",
+    "title": "백수세끼",
+    "author": "치즈",
+    "url": "https://comic.naver.com/webtoon/list?titleId=733074&tab=mon",
+    "imeageUrl": "https://image-comic.pstatic.net/webtoon/733074/thumbnail/thumbnail_IMAG21_80df3e76-47af-4007-b57c-e8f2830835e5.jpg",
+    "genre": "#드라마#음식"
+  },
+  {
+    "day": "wed",
+    "rating": "9.88",
+    "title": "신의 탑",
+    "author": "SIU",
+    "url": "https://comic.naver.com/webtoon/list?titleId=183559&tab=mon",
+    "imeageUrl": "https://image-comic.pstatic.net/webtoon/183559/thumbnail/thumbnail_IMAG21_5f3fec31-5c95-4afe-a73f-3046288edb47.jpg",
+    "genre": "#판타지#세계관#이능력배틀물#소년왕도물#먼치킨"
+  }
+]

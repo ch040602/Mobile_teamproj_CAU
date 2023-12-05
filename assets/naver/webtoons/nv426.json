@@ -1,0 +1,20 @@
+[
+    {
+        "title": "2화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=818360&no=3&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/818360/3/thumbnail_202x120_09183ad0-818c-48bb-af93-39f063da3a77.jpg",
+        "publicationDate": "23.11.16"
+    },
+    {
+        "title": "1화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=818360&no=2&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/818360/2/thumbnail_202x120_11303eb2-a92a-437c-abf5-d87c3bc4aabf.jpg",
+        "publicationDate": "23.11.09"
+    },
+    {
+        "title": "프롤로그",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=818360&no=1&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/818360/1/thumbnail_202x120_26023a9b-1139-48ca-9cbe-316aa4047e04.jpg",
+        "publicationDate": "23.11.09"
+    }
+]

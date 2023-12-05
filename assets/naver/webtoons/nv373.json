@@ -1,0 +1,692 @@
+[
+    {
+        "title": "110화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=115&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/115/thumbnail_202x120_a2b67220-fd0c-46a0-9a7e-2291f2b9b23d.jpg",
+        "publicationDate": "23.11.16"
+    },
+    {
+        "title": "109화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=114&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/114/thumbnail_202x120_19ef0dcd-f985-486b-9c5f-c15f5ad9148d.jpg",
+        "publicationDate": "23.11.09"
+    },
+    {
+        "title": "108화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=113&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/113/thumbnail_202x120_a01cf060-6a75-4558-beb8-092590827d61.jpg",
+        "publicationDate": "23.11.02"
+    },
+    {
+        "title": "107화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=112&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/112/thumbnail_202x120_23ab2cfa-fda1-4d2d-ac46-c002022eccba.jpg",
+        "publicationDate": "23.10.26"
+    },
+    {
+        "title": "106화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=111&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/111/thumbnail_202x120_a8875ebf-fbe1-4700-bea0-7d5c33e499f2.jpg",
+        "publicationDate": "23.10.19"
+    },
+    {
+        "title": "105화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=110&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/110/thumbnail_202x120_ace51d29-d5e5-42ba-b21d-2f15d7035b00.jpg",
+        "publicationDate": "23.10.12"
+    },
+    {
+        "title": "휴재 특별편 5",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=109&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/109/thumbnail_202x120_7bbdd521-4788-48e4-86ba-b9bf6dc84e23.jpg",
+        "publicationDate": "23.08.31"
+    },
+    {
+        "title": "휴재 특별편 4 (각색의 시작)",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=108&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/108/thumbnail_202x120_3bb676c5-db88-45ea-ac2c-9a8b9e193335.jpg",
+        "publicationDate": "23.08.24"
+    },
+    {
+        "title": "휴재 특별편 3 (추가Q&A)",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=107&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/107/thumbnail_202x120_539baffd-ffa2-47c4-9aeb-c7ee6db25874.jpg",
+        "publicationDate": "23.08.17"
+    },
+    {
+        "title": "휴재 특별편 2 (김현수 작가님)",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=106&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/106/thumbnail_202x120_dc5ac71d-6899-488a-a3d2-12d5eeae0cc1.jpg",
+        "publicationDate": "23.08.10"
+    },
+    {
+        "title": "휴재 특별편 1 (이현민&문백경 작가님)",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=105&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/105/thumbnail_202x120_c3392e7c-754b-4515-b8ac-a0e74ff3c49a.jpg",
+        "publicationDate": "23.08.03"
+    },
+    {
+        "title": "104화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=104&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/104/thumbnail_202x120_b6316d1b-820f-4bfd-a7d8-2ae07674f64e.jpg",
+        "publicationDate": "23.07.27"
+    },
+    {
+        "title": "103화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=103&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/103/thumbnail_202x120_73c16fd1-68ce-41d1-811d-add3701ecf23.jpg",
+        "publicationDate": "23.07.20"
+    },
+    {
+        "title": "102화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=102&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/102/thumbnail_202x120_4cbb7dfb-4278-4d58-8f80-e5815f0bcd73.jpg",
+        "publicationDate": "23.07.13"
+    },
+    {
+        "title": "101화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=101&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/101/thumbnail_202x120_c8f3a464-c945-46cb-8e1e-816415ad7a48.jpg",
+        "publicationDate": "23.07.06"
+    },
+    {
+        "title": "100화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=100&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/100/thumbnail_202x120_2230b60f-b8c3-41b4-b0aa-17549a61a61d.jpg",
+        "publicationDate": "23.06.29"
+    },
+    {
+        "title": "99화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=99&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/99/thumbnail_202x120_be924d63-77dd-451e-a81f-f42bb5f05932.jpg",
+        "publicationDate": "23.06.22"
+    },
+    {
+        "title": "98화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=98&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/98/thumbnail_202x120_aefcdc69-e884-40e7-aa5b-25575b38cd81.jpg",
+        "publicationDate": "23.06.15"
+    },
+    {
+        "title": "97화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=97&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/97/thumbnail_202x120_270a65aa-2959-4081-8bf6-a034a77d1c53.jpg",
+        "publicationDate": "23.06.08"
+    },
+    {
+        "title": "96화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=96&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/96/thumbnail_202x120_f7bd3a7f-ec19-463d-901d-c86cead9f7fe.jpg",
+        "publicationDate": "23.06.01"
+    },
+    {
+        "title": "95화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=95&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/95/thumbnail_202x120_914b0b4e-e3f4-4b6d-a03e-edcbca52e2f1.jpg",
+        "publicationDate": "23.05.25"
+    },
+    {
+        "title": "94화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=94&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/94/thumbnail_202x120_d3279a0c-4827-4915-b0cc-f7d839a15f1e.jpg",
+        "publicationDate": "23.05.18"
+    },
+    {
+        "title": "93화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=93&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/93/thumbnail_202x120_5e4ffbda-c359-4e76-b4e1-bcd7f7aa6826.jpg",
+        "publicationDate": "23.05.11"
+    },
+    {
+        "title": "92화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=92&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/92/thumbnail_202x120_46c791e4-51af-450e-ab54-44a984c9680d.jpg",
+        "publicationDate": "23.05.04"
+    },
+    {
+        "title": "91화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=91&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/91/thumbnail_202x120_875446fa-ed21-415b-8502-8c5151b9c1c2.jpg",
+        "publicationDate": "23.04.27"
+    },
+    {
+        "title": "90화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=90&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/90/thumbnail_202x120_582692e1-41d2-45ad-bda4-b8ee7da0cf89.jpg",
+        "publicationDate": "23.04.20"
+    },
+    {
+        "title": "89화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=89&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/89/thumbnail_202x120_37f29ca2-ec32-47b4-b3aa-f4dec65fd00e.jpg",
+        "publicationDate": "23.04.13"
+    },
+    {
+        "title": "88화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=88&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/88/thumbnail_202x120_a8021375-88c0-4c45-9983-31d9008acc20.jpg",
+        "publicationDate": "23.04.06"
+    },
+    {
+        "title": "87화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=87&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/87/thumbnail_202x120_3e265497-a954-412b-8e65-cfa23aa81d72.jpg",
+        "publicationDate": "23.03.30"
+    },
+    {
+        "title": "86화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=86&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/86/thumbnail_202x120_52903bc6-7377-499a-8973-40b796d5fe51.jpg",
+        "publicationDate": "23.03.23"
+    },
+    {
+        "title": "85화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=85&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/85/thumbnail_202x120_f931ca39-b7ad-454b-9d86-e8ff6725b080.jpg",
+        "publicationDate": "23.03.16"
+    },
+    {
+        "title": "84화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=84&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/84/thumbnail_202x120_53aeccc0-7eb3-44eb-89be-745da566bd9d.jpg",
+        "publicationDate": "23.03.09"
+    },
+    {
+        "title": "83화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=83&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/83/thumbnail_202x120_74e2535f-e50e-4eaf-be34-f7a1c1ae958f.jpg",
+        "publicationDate": "23.03.02"
+    },
+    {
+        "title": "82화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=82&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/82/thumbnail_202x120_34f1e44b-4cb8-44e6-96b2-8b06c0648e9b.jpg",
+        "publicationDate": "23.02.23"
+    },
+    {
+        "title": "81화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=81&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/81/thumbnail_202x120_f596d75d-e3aa-48b7-a515-75adea0993a3.jpg",
+        "publicationDate": "23.02.16"
+    },
+    {
+        "title": "80화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=80&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/80/thumbnail_202x120_44aa9404-c5b1-4d5b-ac49-9cd24d4e3738.jpg",
+        "publicationDate": "23.02.09"
+    },
+    {
+        "title": "79화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=79&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/79/thumbnail_202x120_b4c6fb38-219a-4f89-a894-ce4b68d7d771.jpg",
+        "publicationDate": "23.02.02"
+    },
+    {
+        "title": "78화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=78&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/78/thumbnail_202x120_b68dc8d9-ccf3-4ec3-b45f-dd5751212142.jpg",
+        "publicationDate": "23.01.26"
+    },
+    {
+        "title": "77화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=77&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/77/thumbnail_202x120_68e3f823-d6bd-4372-9825-a7dc5a2ea7a1.jpg",
+        "publicationDate": "23.01.19"
+    },
+    {
+        "title": "76화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=76&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/76/thumbnail_202x120_811585e3-2da7-4746-9053-4a40a819adb5.jpg",
+        "publicationDate": "23.01.12"
+    },
+    {
+        "title": "75화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=75&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/75/thumbnail_202x120_19bc8b09-b8f1-48c0-ac2c-46c78d5b53bf.jpg",
+        "publicationDate": "23.01.05"
+    },
+    {
+        "title": "74화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=74&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/74/thumbnail_202x120_9d7fde32-be08-469d-b3a4-e9311858821a.jpg",
+        "publicationDate": "22.12.29"
+    },
+    {
+        "title": "73화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=73&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/73/thumbnail_202x120_7f64791f-1cc0-42b4-89aa-9e38b41f1e89.jpg",
+        "publicationDate": "22.12.22"
+    },
+    {
+        "title": "72화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=72&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/72/thumbnail_202x120_a0725707-81ae-4e6c-8eac-83031facc865.jpg",
+        "publicationDate": "22.12.15"
+    },
+    {
+        "title": "71화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=71&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/71/thumbnail_202x120_f0a78f35-b538-4747-be03-029a4d6598b3.jpg",
+        "publicationDate": "22.12.08"
+    },
+    {
+        "title": "70화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=70&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/70/thumbnail_202x120_fd8fb865-6de4-413f-87a2-e18c04c7981a.jpg",
+        "publicationDate": "22.12.01"
+    },
+    {
+        "title": "69화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=69&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/69/thumbnail_202x120_014687e1-d2e7-4f00-9ce3-efe502335a60.jpg",
+        "publicationDate": "22.11.24"
+    },
+    {
+        "title": "68화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=68&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/68/thumbnail_202x120_420ed0a4-deeb-40f6-b21c-61e354d9c4f7.jpg",
+        "publicationDate": "22.11.17"
+    },
+    {
+        "title": "67화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=67&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/67/thumbnail_202x120_22fb263d-aae1-4c82-b9e6-68202d66a65a.jpg",
+        "publicationDate": "22.11.10"
+    },
+    {
+        "title": "66화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=66&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/66/thumbnail_202x120_e76ec896-312c-4d65-8ccc-f18f93e2072d.jpg",
+        "publicationDate": "22.11.03"
+    },
+    {
+        "title": "65화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=65&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/65/thumbnail_202x120_e22bf9b8-3a5f-4710-bf94-de5eefea5b9a.jpg",
+        "publicationDate": "22.10.27"
+    },
+    {
+        "title": "64화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=64&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/64/thumbnail_202x120_9d5b4962-0e31-41d8-b273-92745d3030c7.jpg",
+        "publicationDate": "22.10.20"
+    },
+    {
+        "title": "63화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=63&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/63/thumbnail_202x120_5b1c310c-2ba4-49ae-866a-267f1c1e2184.jpg",
+        "publicationDate": "22.10.13"
+    },
+    {
+        "title": "62화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=62&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/62/thumbnail_202x120_ef6c756b-eefa-4d88-83c3-7592c77b6291.jpg",
+        "publicationDate": "22.10.06"
+    },
+    {
+        "title": "61화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=61&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/61/thumbnail_202x120_0f21c46f-4bcd-42e2-b3d1-66084379e7fa.jpg",
+        "publicationDate": "22.09.29"
+    },
+    {
+        "title": "60화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=60&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/60/thumbnail_202x120_af3a9439-3f69-4a4f-be12-f61e98b7e6f7.jpg",
+        "publicationDate": "22.09.22"
+    },
+    {
+        "title": "59화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=59&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/59/thumbnail_202x120_ae4ab125-1c23-4df6-91ee-fbb47ab3f588.jpg",
+        "publicationDate": "22.09.15"
+    },
+    {
+        "title": "58화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=58&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/58/thumbnail_202x120_ea3b43cc-9ce5-4f9d-bb20-81a7ba0da60f.jpg",
+        "publicationDate": "22.09.08"
+    },
+    {
+        "title": "57화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=57&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/57/thumbnail_202x120_70c70b4f-e09d-4b8c-9c06-65dd97fccd33.jpg",
+        "publicationDate": "22.09.01"
+    },
+    {
+        "title": "56화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=56&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/56/thumbnail_202x120_3befc7ab-7400-4f57-9af7-0ba0981dd445.jpg",
+        "publicationDate": "22.08.25"
+    },
+    {
+        "title": "55화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=55&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/55/thumbnail_202x120_6412bf18-0392-4af3-86e4-8b6efaaafcaa.jpg",
+        "publicationDate": "22.08.18"
+    },
+    {
+        "title": "54화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=54&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/54/thumbnail_202x120_ac60be71-8d73-4b40-8172-4d101c955e30.jpg",
+        "publicationDate": "22.08.11"
+    },
+    {
+        "title": "53화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=53&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/53/thumbnail_202x120_134067c7-4a63-4bc0-984a-4fc8b8fad1ab.jpg",
+        "publicationDate": "22.08.04"
+    },
+    {
+        "title": "52화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=52&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/52/thumbnail_202x120_368ad4fb-60e7-46e3-a4bf-c3895e7ba20f.jpg",
+        "publicationDate": "22.07.28"
+    },
+    {
+        "title": "51화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=51&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/51/thumbnail_202x120_27e30030-0941-400c-9432-b90591ac15bb.jpg",
+        "publicationDate": "22.07.21"
+    },
+    {
+        "title": "50화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=50&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/50/thumbnail_202x120_c3d77c6c-65a4-4f94-b888-bc7bf11589fe.jpg",
+        "publicationDate": "22.07.14"
+    },
+    {
+        "title": "49화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=49&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/49/thumbnail_202x120_c5c1962f-5b5e-4298-b904-502394eb637d.jpg",
+        "publicationDate": "22.07.07"
+    },
+    {
+        "title": "48화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=48&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/48/thumbnail_202x120_dcab0e4c-bbc0-49b5-bd50-8670bab2f4ba.jpg",
+        "publicationDate": "22.06.30"
+    },
+    {
+        "title": "47화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=47&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/47/thumbnail_202x120_4e332e03-09c7-4598-aa6d-8c6deedeb171.jpg",
+        "publicationDate": "22.06.23"
+    },
+    {
+        "title": "46화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=46&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/46/thumbnail_202x120_fec82cb5-382d-43bf-a747-456268e4909b.jpg",
+        "publicationDate": "22.06.16"
+    },
+    {
+        "title": "45화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=45&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/45/thumbnail_202x120_5d158ba6-02f2-488c-b268-d8b30a59c205.jpg",
+        "publicationDate": "22.06.09"
+    },
+    {
+        "title": "44화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=44&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/44/thumbnail_202x120_c04bf782-1cea-43ff-a62e-c661e0c64edb.jpg",
+        "publicationDate": "22.06.02"
+    },
+    {
+        "title": "43화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=43&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/43/thumbnail_202x120_c585ff61-c81a-40b5-8031-840fdf393cd5.jpg",
+        "publicationDate": "22.05.26"
+    },
+    {
+        "title": "42화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=42&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/42/thumbnail_202x120_9d3f8717-2868-4807-ad7d-829df3be0f22.jpg",
+        "publicationDate": "22.05.19"
+    },
+    {
+        "title": "41화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=41&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/41/thumbnail_202x120_c500cf48-d719-4bac-807e-db6aca02d046.jpg",
+        "publicationDate": "22.05.12"
+    },
+    {
+        "title": "40화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=40&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/40/thumbnail_202x120_7423c7b1-a57d-4e65-9ee4-876ffa79feff.jpg",
+        "publicationDate": "22.05.05"
+    },
+    {
+        "title": "39화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=39&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/39/thumbnail_202x120_13ab21dd-d938-4fc3-99f3-43e266bbe2eb.jpg",
+        "publicationDate": "22.04.28"
+    },
+    {
+        "title": "38화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=38&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/38/thumbnail_202x120_01555069-9f26-4c9c-ae79-c6d5e474307c.jpg",
+        "publicationDate": "22.04.21"
+    },
+    {
+        "title": "37화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=37&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/37/thumbnail_202x120_99552105-86a6-4559-aeea-3a06a13556a2.jpg",
+        "publicationDate": "22.04.14"
+    },
+    {
+        "title": "36화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=36&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/36/thumbnail_202x120_5ddec624-2365-4cc0-b352-8d7e0b6c08ef.jpg",
+        "publicationDate": "22.04.07"
+    },
+    {
+        "title": "35화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=35&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/35/thumbnail_202x120_62e6f30a-782a-4b83-91bf-9ef1be6d4906.jpg",
+        "publicationDate": "22.03.31"
+    },
+    {
+        "title": "34화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=34&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/34/thumbnail_202x120_41c78996-cdcd-47f7-9808-9da2fd30b18e.jpg",
+        "publicationDate": "22.03.24"
+    },
+    {
+        "title": "33화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=33&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/33/thumbnail_202x120_c72b1025-543b-4c9c-a039-e7285d93afbb.jpg",
+        "publicationDate": "22.03.17"
+    },
+    {
+        "title": "32화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=32&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/32/thumbnail_202x120_86ae7bc8-4d8d-47d0-a03d-dc68fe912c1a.jpg",
+        "publicationDate": "22.03.10"
+    },
+    {
+        "title": "31화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=31&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/31/thumbnail_202x120_d281b8c4-2717-48f8-93fd-7a1632c1ea91.jpg",
+        "publicationDate": "22.03.03"
+    },
+    {
+        "title": "30화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=30&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/30/thumbnail_202x120_74f37c5c-366b-461a-8b70-3af7ba06597e.jpg",
+        "publicationDate": "22.02.24"
+    },
+    {
+        "title": "29화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=29&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/29/thumbnail_202x120_b625d3c1-59f5-4e6b-9f68-7ed6533aa086.jpg",
+        "publicationDate": "22.02.17"
+    },
+    {
+        "title": "28화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=28&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/28/thumbnail_202x120_3a987740-8165-4824-adc6-40cbe6c0d971.jpg",
+        "publicationDate": "22.02.10"
+    },
+    {
+        "title": "27화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=27&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/27/thumbnail_202x120_74ee78a9-1442-43b7-a24c-411a771388e1.jpg",
+        "publicationDate": "22.02.03"
+    },
+    {
+        "title": "26화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=26&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/26/thumbnail_202x120_0fc35979-dd6b-4ed3-8af1-c5c072e712e5.jpg",
+        "publicationDate": "22.01.27"
+    },
+    {
+        "title": "25화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=25&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/25/thumbnail_202x120_c8405e62-c80c-499f-9d29-5a0eb5a193bb.jpg",
+        "publicationDate": "22.01.20"
+    },
+    {
+        "title": "24화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=24&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/24/thumbnail_202x120_fbbc3a0a-57ff-4fc6-b8a1-d480bfd1042f.jpg",
+        "publicationDate": "22.01.13"
+    },
+    {
+        "title": "23화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=23&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/23/thumbnail_202x120_6e282f93-3ff0-4c00-a4ac-4c3d69260cdb.jpg",
+        "publicationDate": "22.01.06"
+    },
+    {
+        "title": "22화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=22&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/22/thumbnail_202x120_17c6e774-48fb-45eb-ad5b-605ddb664696.jpg",
+        "publicationDate": "21.12.30"
+    },
+    {
+        "title": "21화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=21&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/21/thumbnail_202x120_5c21d6b2-0a9c-46bf-bcca-502d4ca0e630.jpg",
+        "publicationDate": "21.12.23"
+    },
+    {
+        "title": "20화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=20&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/20/thumbnail_202x120_28188aae-dccc-462f-b4fc-4417e21b3aab.jpg",
+        "publicationDate": "21.12.16"
+    },
+    {
+        "title": "19화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=19&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/19/thumbnail_202x120_941280a9-9ffe-4987-8741-8f1fa5253c12.jpg",
+        "publicationDate": "21.12.09"
+    },
+    {
+        "title": "18화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=18&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/18/thumbnail_202x120_305759f5-3ca7-4318-a6a2-fef06402e66f.jpg",
+        "publicationDate": "21.12.02"
+    },
+    {
+        "title": "17화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=17&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/17/thumbnail_202x120_43fd0134-06e6-47ad-8170-1bf487cb0784.jpg",
+        "publicationDate": "21.11.25"
+    },
+    {
+        "title": "16화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=16&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/16/thumbnail_202x120_11a5ca6c-899f-43b4-87c1-8a460020c534.jpg",
+        "publicationDate": "21.11.18"
+    },
+    {
+        "title": "15화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=15&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/15/thumbnail_202x120_f1fd60c6-cef4-48ec-958f-0fadf2beb598.jpg",
+        "publicationDate": "21.11.11"
+    },
+    {
+        "title": "14화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=14&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/14/thumbnail_202x120_4e473e6b-9a85-4c28-a2ca-cf6fc7f2b2b9.jpg",
+        "publicationDate": "21.11.04"
+    },
+    {
+        "title": "13화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=13&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/13/thumbnail_202x120_f63503ba-e17f-4b62-ba1b-dffc9fa30073.jpg",
+        "publicationDate": "21.10.28"
+    },
+    {
+        "title": "12화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=12&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/12/thumbnail_202x120_c0d40c0b-6791-47b1-a096-32ea299f97d6.jpg",
+        "publicationDate": "21.10.21"
+    },
+    {
+        "title": "11화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=11&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/11/thumbnail_202x120_31c63c0a-aa87-4798-84b0-39554c5f83b7.jpg",
+        "publicationDate": "21.10.14"
+    },
+    {
+        "title": "10화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=10&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/10/thumbnail_202x120_40919627-b600-494a-a9df-46b3178714b9.jpg",
+        "publicationDate": "21.10.07"
+    },
+    {
+        "title": "9화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=9&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/9/thumbnail_202x120_9cf3d717-7f46-4911-b9db-5b6840355387.jpg",
+        "publicationDate": "21.09.30"
+    },
+    {
+        "title": "8화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=8&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/8/thumbnail_202x120_67bbd30c-19ab-4a47-884a-a09a7f3fc999.jpg",
+        "publicationDate": "21.09.23"
+    },
+    {
+        "title": "7화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=7&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/7/thumbnail_202x120_8e22d3c3-447d-4fc0-bbca-f9259e15edcc.jpg",
+        "publicationDate": "21.09.16"
+    },
+    {
+        "title": "6화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=6&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/6/thumbnail_202x120_3945eab8-de5b-4130-8b5f-bd0f57213cd7.jpg",
+        "publicationDate": "21.09.09"
+    },
+    {
+        "title": "5화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=5&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/5/thumbnail_202x120_1d266c0a-8b59-4924-99ae-ecd348076453.jpg",
+        "publicationDate": "21.09.02"
+    },
+    {
+        "title": "4화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=4&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/4/thumbnail_202x120_399f9c79-8490-46d1-96ff-7ad780c23908.jpg",
+        "publicationDate": "21.08.26"
+    },
+    {
+        "title": "3화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=3&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/3/thumbnail_202x120_b38b3505-7652-45ed-9a1e-d32c75501470.jpg",
+        "publicationDate": "21.08.19"
+    },
+    {
+        "title": "2화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=2&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/2/thumbnail_202x120_55bde497-5df6-460f-9393-91b00f4df5b0.jpg",
+        "publicationDate": "21.08.12"
+    },
+    {
+        "title": "1화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=777767&no=1&week=fri",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/777767/1/thumbnail_202x120_851acd39-9638-4e02-9a1d-8cf9279ba9ef.jpg",
+        "publicationDate": "21.08.05"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "4화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=818219&no=4&week=sun",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/818219/4/thumbnail_202x120_1b390a32-8ad2-4f3b-af96-13e81ec52775.jpg",
+        "publicationDate": "23.11.18"
+    },
+    {
+        "title": "3화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=818219&no=3&week=sun",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/818219/3/thumbnail_202x120_bcd50434-3e31-42f9-9d33-1dc04bda298f.jpg",
+        "publicationDate": "23.11.11"
+    },
+    {
+        "title": "2화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=818219&no=2&week=sun",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/818219/2/thumbnail_202x120_576bc76b-6140-48d4-8e6f-4dd5edaf5501.jpg",
+        "publicationDate": "23.11.04"
+    },
+    {
+        "title": "1화",
+        "url": "https://comic.naver.com/webtoon/detail?titleId=818219&no=1&week=sun",
+        "imageUrl": "https://image-comic.pstatic.net/webtoon/818219/1/thumbnail_202x120_2553d7d5-9a7d-47cf-a0a1-fea520d635f9.jpg",
+        "publicationDate": "23.10.28"
+    }
+]
